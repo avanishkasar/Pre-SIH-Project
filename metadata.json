@@ -1,0 +1,8 @@
+{
+  "name": "Matrix - Autonomous XGBoost Threat Hunting & SIEM Mesh",
+  "description": "Engineered by Avanish Kasar. Autonomous SIEM platform with sub-2ms XGBoost ML anomaly classification, 12-feature cyber telemetry extraction, MITRE ATT&CK correlation, and SOAR remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
